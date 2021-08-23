@@ -1,2 +1,2 @@
-# L-p-tr-nh-h-ng-i-t-ng
+# Lap trinh huong doi tuong
 C++
